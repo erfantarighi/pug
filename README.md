@@ -1,6 +1,6 @@
 # pug
 
-A simple, Fast Download manager. Get 3x download speed.
+A simple, Fast Download manager. Get up to 3x download speed.
 
 
 install requirements:
